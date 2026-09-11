@@ -10,9 +10,9 @@ I enjoy building machine learning systems that solve real-world problems.
 
 ## Technical Skills
 
-**Languages:** Python, C++, Java
-**Libraries:** Scikit-learn, TensorFlow, OpenCV, Pandas, NumPy
-**Concepts:** Machine Learning, CNN, NLP, Feature Engineering
+**Languages:** Python, C++, Java\n
+**Libraries:** Scikit-learn, TensorFlow, OpenCV, Pandas, NumPy\n
+**Concepts:** Machine Learning, CNN, NLP, Feature Engineering\n
 **Tools:** Git, Jupyter Notebook
 
 
