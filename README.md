@@ -3,7 +3,7 @@
 🎓 B.Tech CSE (Data Science) student
 📍 Bhubaneswar, India
 
-Interested in **Machine Learning, Computer Vision, and Natural Language Processing**.
+Interested in **Software Engineering | Backend Systems | Networking | Automation | Machine Learning**.
 I enjoy building machine learning systems that solve real-world problems.
 
 ---
